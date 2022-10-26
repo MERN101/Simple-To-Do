@@ -1,3 +1,8 @@
 .react-grid-item {
     box-sizing: border-box;
 }
+
+.react-grid-item.cssTransforms {
+    transition-property: transform;
+}
+
